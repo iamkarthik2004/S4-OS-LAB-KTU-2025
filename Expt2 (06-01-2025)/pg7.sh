@@ -1,3 +1,5 @@
+#Write a program to implement a simple calculator
+
 echo "Enter First Number: "
 read a
 echo "Enter Second Number: "
