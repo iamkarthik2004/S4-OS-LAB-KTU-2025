@@ -1,4 +1,4 @@
-#Program to Prrint name, semester, batch, roll number and register number
+#Program to Print name, semester, batch, roll number and register number
 
 echo "Enter your name:"
 read name
