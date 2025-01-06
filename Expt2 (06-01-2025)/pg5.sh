@@ -1,3 +1,5 @@
+#Program to find the factorial of a number
+
 echo "Enter a number: "
 read n
 f=1
