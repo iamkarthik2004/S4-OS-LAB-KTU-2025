@@ -1,3 +1,5 @@
+#Write a program to print the fibonaaci Series upto a range
+
 echo "Enter limit: "
 read limit
 x=0
