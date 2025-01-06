@@ -2,6 +2,18 @@
 
 ## OS Lab Programming Codes 🚀💻
 
-This repository contains solutions for the Operating Systems Lab exercises.
+1. Project Title 🎯
+
+- Operating System Lab Programs
+
+2. Description 📖
+
+- This repository contains solutions for the Operating Systems Lab exercises.
 KTU 2019 Scheme
 
+3. Requirements 🛠️
+Make sure you have the following installed:
+
+🐧 Operating System: Linux/Unix (preferred) 
+
+⚙️ Compiler/Interpreter: GCC or Bash shell 
