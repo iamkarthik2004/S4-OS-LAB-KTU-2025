@@ -1,3 +1,5 @@
+#Program to Prrint name, semester, batch, roll number and register number
+
 echo "Enter your name:"
 read name
 echo "Enter your semester:"
