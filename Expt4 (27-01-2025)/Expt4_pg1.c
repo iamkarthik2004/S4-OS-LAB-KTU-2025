@@ -2,7 +2,7 @@
 27-01-2025
 Experiment No: 4
 Scheduling Algorithm
-(A) FCFC - First Come First Seach*/
+(A) FCFS - First Come First Seach*/
 
 #include <stdio.h>
 
