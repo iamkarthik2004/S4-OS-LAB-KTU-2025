@@ -1,5 +1,6 @@
 # Experiment 3 - Operating Systems Lab 🖥️
 ## SYSTEM CALLS OF LINUX OPERATING SYSTEMS 🐧
+### Date: 24-04-2025 📅
 
 ## AIM 🎯
 To implement the system calls in Linux such as fork, exec, getpid, exit, wait, close, stat, opendir, readdir, etc.
@@ -12,7 +13,7 @@ To implement the system calls in Linux such as fork, exec, getpid, exit, wait, c
 
 ### Program 2: [first.c](https://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/blob/main/Expt3%20(24-01-2025)/first.c) & [second.c](https://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/blob/main/Expt3%20(24-01-2025)/second.c)
 - **Description**: Program to implement execvp() ⚡
-- We need 2 c files, i.e first.c and second.c
+- We need 2 .c files, i.e first.c and second.c
 - **Output**: [View Output](https://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/blob/main/Expt3%20(24-01-2025)/Expt3_pg2.png)
 
 ### Program 3: [Expt3_pg3.c](https://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/blob/main/Expt3%20(24-01-2025)/Expt3_pg3.c)
