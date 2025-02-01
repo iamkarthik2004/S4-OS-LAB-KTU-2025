@@ -1,6 +1,6 @@
 # Experiment 3 - Operating Systems Lab 🖥️
 ## SYSTEM CALLS OF LINUX OPERATING SYSTEMS 🐧
-### Date: 24-04-2025 📅
+### Date: 24-01-2025 📅
 
 ## AIM 🎯
 To implement the system calls in Linux such as fork, exec, getpid, exit, wait, close, stat, opendir, readdir, etc.
