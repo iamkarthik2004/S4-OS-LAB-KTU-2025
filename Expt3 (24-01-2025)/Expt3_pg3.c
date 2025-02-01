@@ -1,3 +1,10 @@
+/* 
+24-01-2025
+Experiment No: 3
+System Callss of Linux Operating Systems
+(C)*/
+
+
 #include <stdio.h>
 #include <unistd.h>
 #include <dirent.h>
