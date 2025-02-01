@@ -1,18 +1,11 @@
-Experiment 3
-Programs
+# Experiment 3 - Operating Systems Lab
 
-a) 
-Program 1
-https://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/blob/main/Expt3%20(24-01-2025)/Expt3_pg1.c
-Output
-https://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/blob/main/Expt3%20(24-01-2025)/Expt3_pg1.c
+## Programs
 
-Program 2
+### Program 1: [Expt3_pg1.c](https://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/blob/main/Expt3%20(24-01-2025)/Expt3_pg1.c)
+- **Description**: [Provide a brief description of what Program 1 does here.]
+- **Output**: [View Output](https://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/blob/main/Expt3%20(24-01-2025)/Expt3_pg1.c)
 
-first code
-https://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/blob/main/Expt3%20(24-01-2025)/first.c
-Second code
-https://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/blob/main/Expt3%20(24-01-2025)/second.c
-
-Output
-https://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/blob/main/Expt3%20(24-01-2025)/Expt3_pg2.png
+### Program 2: [first.c](https://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/blob/main/Expt3%20(24-01-2025)/first.c) & [second.c](https://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/blob/main/Expt3%20(24-01-2025)/second.c)
+- **Description**: [Provide a brief description of what Program 2 does here.]
+- **Output**: ![Output](https://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/blob/main/Expt3%20(24-01-2025)/Expt3_pg2.png)
