@@ -8,7 +8,7 @@ To implement different scheduling algorithm such as First Come First Search, Sho
 ## Programs 💻
 
 ### Program 1: [Expt4_pg1.c](https://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/blob/main/Expt4%20(27-01-2025)/Expt4_pg1.c)
-- **Description**: FCFS - First Come First Seach
+- **Description**: FCFS - First Come First served
 - **Output**: [View Output](coming soon)
 
 ### Program 2: [Expt4_pg2.c](Coming Soon)
