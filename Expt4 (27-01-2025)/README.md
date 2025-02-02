@@ -13,7 +13,7 @@ To implement different scheduling algorithm such as First Come First Search, Sho
 
 ### Program 2: [Expt4_pg2.c](Coming Soon)
 - **Description**: SJF - Shortest Job First
-- - **Output**: [View Output](Coming Soon)
+-  **Output**: [View Output](Coming Soon)
 
 ### Program 3: [Expt4_pg3.c](Coming Soon)
 - **Description**: Round Robin
