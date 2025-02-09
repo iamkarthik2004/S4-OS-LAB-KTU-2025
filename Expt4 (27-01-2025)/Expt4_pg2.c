@@ -2,7 +2,7 @@
 27-01-2025
 Experiment No: 4
 Scheduling Algorithm
-(A) SJF - Shortest Job First*/
+(B) SJF - Shortest Job First*/
 
 #include <stdio.h>
 
