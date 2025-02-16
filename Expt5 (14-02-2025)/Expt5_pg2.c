@@ -9,30 +9,23 @@ MEMORY ALLOCATION METHODS
 */
 
 #include <stdio.h>
-
 int main() {
     int nb, np, i, j;
 
-    // Input number of memory blocks
     printf("Enter the number of memory blocks: ");
     scanf("%d", &nb);
     
     int blockSize[nb], allocation[nb];
-
-    // Input block sizes and initialize allocation array
     for (i = 0; i < nb; i++) {
         printf("Enter size of block %d: ", i + 1);
         scanf("%d", &blockSize[i]);
-        allocation[i] = -1; // Initialize all blocks as unallocated
+        allocation[i] = -1; // Initially, all blocks are free
     }
 
-    // Input number of processes
     printf("Enter the number of processes: ");
     scanf("%d", &np);
     
     int processSize[np];
-
-    // Input process sizes
     for (i = 0; i < np; i++) {
         printf("Enter size of process %d: ", i + 1);
         scanf("%d", &processSize[i]);
@@ -45,12 +38,11 @@ int main() {
         for (j = 0; j < nb; j++) {
             if (blockSize[j] >= processSize[i] && allocation[j] == -1) {
                 if (bestIndex == -1 || blockSize[j] < blockSize[bestIndex]) {
-                    bestIndex = j; // Select the best (smallest fitting) block
+                    bestIndex = j; // Select the smallest suitable block
                 }
             }
         }
 
-        // Allocate process if a suitable block is found
         if (bestIndex != -1) {
             allocation[bestIndex] = i;
         }
