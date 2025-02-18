@@ -21,4 +21,4 @@ To implement different scheduling algorithm such as First Come First Search, Sho
 
 ### Program 4: [Expt4_pg4.c](https://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/blob/main/Expt4%20(27-01-2025)/Expt4_pg4.c)
 - **Description**: Round Robin
-- **Output**: [View Output](Coming Soon)
+- **Output**: [View Output](https://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/blob/main/Expt4%20(27-01-2025)/Expt4_pg4.png)
