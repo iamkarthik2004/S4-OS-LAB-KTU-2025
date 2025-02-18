@@ -20,6 +20,6 @@ To implement the system calls in Linux such as fork, exec, getpid, exit, wait, c
 - **Description**: Program to implement opendir(), readdir() and closedir() 📂
 - **Output**: [View Output](https://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/blob/main/Expt3%20(24-01-2025)/Expt3_pg3.png)
 
-### Program 4: [Expt3_pg4.c]()
+### Program 4: [Expt3_pg4.c](https://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/blob/main/Expt3%20(24-01-2025)/Expt3_pg4.c)
 - **Description**: Program to implement opendir(), readdir() and closedir() 📂
 - **Output**: [View Output]()
