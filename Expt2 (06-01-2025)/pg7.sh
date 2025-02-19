@@ -1,13 +1,16 @@
 #Write a program to implement a simple calculator
 
+echo "1. Addition"
+echo "2. Addition"
+echo "3. Multiplication"
+echo "4. Division"
+
+echo "Select any Option: "
+read OP
 echo "Enter First Number: "
 read a
 echo "Enter Second Number: "
 read b
-
-
-echo "Select any Option: "
-read OP
 case $OP in
 1)C=$(($a+$b))
 echo "Sum is: $C";;
@@ -19,4 +22,3 @@ echo "Product is: $C";;
 echo "Division is: $C";;
 *)echo "Wrong choice";;
 esac
-
