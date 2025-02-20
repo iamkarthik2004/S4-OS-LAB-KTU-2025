@@ -37,15 +37,6 @@ Click below to access each **experiment folder**:
 🔹 **[Experiment 4 - Scheduling Algorithm](https://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/tree/main/Expt4%20(27-01-2025))**  
 🔹 **[Experiment 5 - Memory Allocation Methods](https://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/tree/main/Expt5%20(14-02-2025))**  
 
-
-## 📌 Topics Covered  
-✔️ Process Scheduling Algorithms (FCFS, SJF, Round Robin, etc.)  
-✔️ Memory Management (Paging, Segmentation)  
-✔️ File Systems  
-✔️ Interprocess Communication  
-✔️ Deadlock Handling  
-✔️ Synchronization (Semaphores, Mutex)  
-
 ## 🤝 Contributing  
 🔹 Found a bug? Want to improve a program? Contributions are welcome!  
 🔹 Fork the repo, make your changes, and submit a PR!  
