@@ -42,7 +42,7 @@ Click below to access each **experiment folder**:
 🔹 Fork the repo, make your changes, and submit a PR!  
 
 ## 🏆 Credits  
-Developed with ❤️ for **KTU S4 OS Lab** students.  
+Developed with ❤️ for **KTU CSE** students.  
 
 ---
 
