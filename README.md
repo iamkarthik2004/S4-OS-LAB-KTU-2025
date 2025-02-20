@@ -17,3 +17,6 @@ Make sure you have the following installed:
 🐧 Operating System: Linux/Unix (preferred) 
 
 ⚙️ Compiler/Interpreter: GCC or Bash shell 
+
+ALGORITHMS
+https://drive.google.com/drive/folders/1s0s9yqOd-DlrTmuB_tXk9_Ts9hcce0hm?usp=sharing
