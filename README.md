@@ -23,6 +23,12 @@ For detailed **algorithms**, check out the resources below:
 
 📂 [**OS Lab Algorithms**](https://drive.google.com/drive/folders/1s0s9yqOd-DlrTmuB_tXk9_Ts9hcce0hm?usp=sharing)  
 
+## 📖 KTU OS Syllabus  
+
+For a complete reference, check the official **KTU Operating System syllabus** below:  
+
+📄 **[KTU OS Syllabus PDF](https://drive.google.com/file/d/1MYGAhUXrEz4UmIfopge15-u9_SbBJ6T8/view)** 
+
 ## 📂 Experiment Folders  
 Click below to access each **experiment folder**:  
 
