@@ -15,7 +15,7 @@ Implementation of the memory allocation method for fixed partition using (a) Fir
 - **Description**: Best Fit
 -  **Output**: [View Output](https://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/blob/main/Expt5%20(14-02-2025)/Expt5_pg2.png)
 
-### Program 3: [Expt5_pg3.c](Coming Soon)
+### Program 3: [Expt5_pg3.c](http://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/blob/main/Expt5%20(14-02-2025)/Expt5_pg3.c)
 - **Description**: Worst Fit
 - **Output**: [View Output](Coming Soon)
 
