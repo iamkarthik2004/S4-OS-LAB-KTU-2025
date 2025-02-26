@@ -36,6 +36,8 @@ Click below to access each **experiment folder**:
 🔹 **[Experiment 3 - System Calls of Linux Operating Systems](https://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/tree/main/Expt3%20(24-01-2025))**  
 🔹 **[Experiment 4 - Scheduling Algorithm](https://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/tree/main/Expt4%20(27-01-2025))**  
 🔹 **[Experiment 5 - Memory Allocation Methods](https://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/tree/main/Expt5%20(14-02-2025))**  
+🔹 **[Experiment 6 - Producer Consuming Problem](https://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/tree/main/Expt6%20(21-02-2025))**  
+
 
 ## 🤝 Contributing  
 🔹 Found a bug? Want to improve a program? Contributions are welcome!  
