@@ -38,7 +38,7 @@ Click below to access each **experiment folder**:
 🔹 **[Experiment 5 - Memory Allocation Methods](https://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/tree/main/Expt5%20(14-02-2025))**  
 🔹 **[Experiment 6 - Implementation of Semaphore](https://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/tree/main/Expt6%20(21-02-2025))**  
 🔹 **[Experiment 7 - Banker's Algorithm](https://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/tree/main/Expt7%20(28-02-2025))** 
-🔹 **[Experiment 8 -Interprocess Communication Using Shared Memory](https://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/tree/main/Expt8%20(03-02-2025))**  
+🔹 **[Experiment 8 - Interprocess Communication Using Shared Memory](https://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/tree/main/Expt8%20(03-02-2025))**  
 
 
 
