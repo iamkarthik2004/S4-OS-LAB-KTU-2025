@@ -4,7 +4,7 @@
 
 1. Open the Terminal 🖥️
 2. Run the script using the command:
-3. bash pg1.h
+3. bash pg1.sh
 
 ## LAB 2 - Expt 2 - Programs
 1. Program to Print name, semester, batch, roll number and register number (pg1.sh)
