@@ -42,6 +42,10 @@ Click below to access each **experiment folder**:
 🔹 **[Experiment 9 - Page Replacement Schemes](https://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/tree/main/Expt9%20(14-02-2025))**  
 🔹 **[Experiment 10 - Simulation of Disk Scheduling Algorithm](https://github.com/iamkarthik2004/S4-OS-LAB-KTU-2025/tree/main/Expt10%20(03-04-2025))**
 
+## Algorithms (PDF)
+Link: 
+
+
 ## 🤝 Contributing  
 🔹 Found a bug? Want to improve a program? Contributions are welcome!  
 🔹 Fork the repo, make your changes, and submit a PR!  
