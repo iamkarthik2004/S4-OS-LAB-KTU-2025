@@ -9,7 +9,7 @@ BANKER'S ALGORITHM
 #include <stdio.h>
 
 int main() {
-    int p, c, count = 0, i, j, terimate = 0;
+    int p, c, count = 0, i, j, terminate = 0;
 
     printf("Enter the number of Process and Resources: ");
     scanf("%d %d", &p, &c);
@@ -37,7 +37,6 @@ int main() {
         scanf("%d", &available[i]);
     }
 
-
     printf("\nThe Need matrix is:\n");
     for (i = 0; i < p; i++) {
         for (j = 0; j < c; j++) {
@@ -47,11 +46,9 @@ int main() {
         printf("\n");
     }
 
-
     for (i = 0; i < p; i++) {
         done[i] = 0;
     }
-
 
     while (count < p) {
         for (i = 0; i < p; i++) {
@@ -65,26 +62,24 @@ int main() {
                     safe[count] = i + 1;
                     done[i] = 1;
 
-
                     for (j = 0; j < c; j++) {
                         available[j] += alc[i][j];
                     }
                     count++;
-                    terimate = 0;
+                    terminate = 0;
                 } else {
-                    terimate++;
+                    terminate++;
                 }
             }
         }
 
-        if (terimate == p) {
+        if (terminate == p) {
             printf("Safe sequence does not exist.\n");
             break;
         }
     }
 
-
-    if (terimate != p) {
+    if (terminate != p) {
         printf("\nAvailable resources after completion: ");
         for (i = 0; i < c; i++) {
             printf("%d\t", available[i]);
@@ -101,4 +96,3 @@ int main() {
 
     return 0;
 }
-
